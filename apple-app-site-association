@@ -1,11 +1,5 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "KYQWFU955G.me.globemedia.hike",
-        "paths": ["/path1/*", "/path2/*"]
-      }
-    ]
+  "webcredentials": {
+    "apps": ["KYQWFU955G.me.globemedia.hike"]
   }
 }
